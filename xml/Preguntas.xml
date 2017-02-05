@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+
+    <question id='Quest_01'>
+        <type>text</type>
+        <text>¿En que año salio la Super Nintendo?</text>
+        <answer>1990</answer>
+    </question>
+
+    <question id='Quest_02'>
+        <type>select multiple</type>
+        <text>¿Cuál due el jeugo más vendido en 2016 en PS4?</text>
+        <answer>FIFA 17</answer>
+        <answer>Battlefield 1</answer>
+        <answer>GTA Grand theft auto V</answer>
+        <answer>Call of Duty: Infinite Warfer</answer>
+    </question>
+
+    <question id='Quest_03'>
+        <type>select multiple</type>
+        <text>¿Cual ha sido la consola más vendida en la historia?</text>
+        <answer>NES</answer>
+        <answer>Nintendo DS</answer>
+        <answer>Playstation 2</answer>
+        <answer>Gameboy</answer>
+    </question>
+
+    <question id='Quest_04'>
+        <type>checkbox</type>
+        <text>¿Cuál es la plataforma mas utilizada para ver contenido sobre videojuegos?</text>
+        <answer>Youtube</answer>
+        <answer>Twitch</answer>
+        <answer>Libros</answer>
+        <answer>Revistas</answer>
+    </question>
+
+    <question id='Quest_05'>
+        <type>radio</type>
+        <text>¿Que personaje le firma el libro a Harrison Ford en la tercera parte de Indiana Jones?</text>
+        <option value="consola">hitler</option>
+        <option value="consola">samuel L.Jackson,</option>
+        <option value="consola">brad pitt</option>
+    </question>
+
+    <question id='Quest_06'>
+        <type>select</type>
+        <text>¿Qué es Steam?</text>
+        <answer>Una videoconsola</answer>
+        <answer>Un mando</answer>
+        <answer>Una plataforma de videojuegos</answer>
+        <answer>Lo mejor que le ha pasado al PC</answer>
+    </question>
+
+    <question id='Quest_07'>
+        <type>checkbox</type>
+        <text>¿Nintendo Switch es?</text>
+        <answer>Un teléfono</answer>
+        <answer>Un robo</answer>
+        <answer>La nueva videoconsola de Nintendo</answer>
+        <answer>Unas gafas de realidad virtual</answer>
+    </question>
+
+    <question id='Quest_08'>
+        <type>text</type>
+        <text>¿Nombre del protagonista de Monkey Island?</text>
+        <answer>Guybrush</answer>
+    </question>
+
+    <question id='Quest_09'>
+        <type>select</type>
+        <text>¿Cuál es el personaje mas odiado del videojuego online League of Legends?</text>
+        <answer>Urgot</answer>
+        <answer>Draven</answer>
+        <answer>Teemo</answer>
+        <answer>Nunu</answer>
+    </question>
+
+    <question id='MIJ_10'>
+        <type>radio</type>
+        <text>¿En que capitulo de Final Fantasy podemos encontrar la mejor banda sonora de la saga?</text>
+        <answer>Final Fantasy IX</answer>
+        <answer>Final Fantasy II</answer>
+        <answer>Final Fantasy XIV</answer>
+        <answer>Final Fantasy Crystal Chronicles</answer>
+    </question>
+
+
+</questions>
